@@ -47,4 +47,4 @@ If it's ok feel free to deploy your application.
 `$ zappa deploy dev`
 
 If nothing is wrong , you will get aws endpoint to your application.
-Enhoy:)
+Enjoy:)
